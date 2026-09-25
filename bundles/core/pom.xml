@@ -485,14 +485,14 @@
         <dependency>
             <groupId>com.sun.xml.bind</groupId>
             <artifactId>jaxb-core</artifactId>
-            <version>2.3.0</version>
+            <version>2.3.0.1</version>
             <scope>test</scope>
         </dependency>
 
         <dependency>
             <groupId>com.sun.xml.bind</groupId>
             <artifactId>jaxb-impl</artifactId>
-            <version>2.3.7</version>
+            <version>2.3.9</version>
             <scope>test</scope>
         </dependency>
 
@@ -530,7 +530,7 @@
         <dependency>
             <groupId>com.github.spotbugs</groupId>
             <artifactId>spotbugs-annotations</artifactId>
-            <version>4.7.2</version>
+            <version>4.10.4</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
